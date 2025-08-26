@@ -1,5 +1,12 @@
 ## Hi there 👋
 Part 1: Research Data Analyst Portfolios
+
+Person 1: Naledi Hollbruegge
+Interesting Projects:
+STATE OF CLIMATE AMBITION - Climate ambition is nuanced and context specific. This new United Nations Development Programme (UNDP) report explores how the world is progressing on climate ambition – Who is leading the way? And who is falling behind? – through a unique perspective that assesses global intentions and also draws on data and evidence from more than 120 developing countries. Despite many challenges, it demonstrates that there are also reasons to be hopeful for the future.
+
+
+
 <!--
 **dpresto03/dpresto03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
